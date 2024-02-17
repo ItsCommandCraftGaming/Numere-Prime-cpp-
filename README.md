@@ -1,1 +1,1 @@
-# Numere-Prime-Pascal-
+# Numere-Prime-Cpp-
